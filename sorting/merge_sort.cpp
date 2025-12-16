@@ -34,7 +34,7 @@ void Merge(vector<int>&arr,int l,int mid,int r)
     }
 
 }
-void mergeSort(vector<int>&arr,int l,int r)
+void mergeSort(vector<int>&arr,int l,int r) // l=first index/start , r=last index / end
 {
     if(l<r)
     {
@@ -55,3 +55,4 @@ int main()
 
     return 0;
 }
+
