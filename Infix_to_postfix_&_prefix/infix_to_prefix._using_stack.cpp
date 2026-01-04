@@ -70,3 +70,11 @@ int main()
 
     return 0;
 }
+/*
+sample input :
+(A-B/C)*(A/K-L) 
+
+sample output : 
+*-A/BC-/AKL
+*/
+
